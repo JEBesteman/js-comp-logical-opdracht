@@ -49,7 +49,7 @@ if (totalAmount >= 25 && totalAmount < 50) {
 
 const totalAmount = 115;
 
-if (totalAmount > 100) {
+if (totalAmount >= 100) {
 
     console.log("Je krijgt een gratis flesje champagne!");
 
